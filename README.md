@@ -55,6 +55,3 @@ CodeAlpha_LanguageTranslationTool/
 
 The app calls the [MyMemory Translation API](https://mymemory.translated.net/) directly from JavaScript in the browser. No backend or API key is needed — translation requests are made client-side on every button click.
 
-## License
-
-This project was built for educational purposes as part of the CodeAlpha internship program.
