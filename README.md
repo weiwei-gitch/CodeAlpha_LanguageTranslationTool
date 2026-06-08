@@ -56,4 +56,4 @@ CodeAlpha_LanguageTranslationTool/
 5. User can copy or listen to the translation
 
 ---
-*Built for CodeAlpha Internship - Task 1*
+
